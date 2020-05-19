@@ -11,7 +11,7 @@
 -   Only active _during_ development.
 -   Doesn't provide any performance optimization.
 
-#### Settiung up the TypeScript Compiler
+#### Setting up the TypeScript Compiler
 
     npm install -g typescript ts-node
 
